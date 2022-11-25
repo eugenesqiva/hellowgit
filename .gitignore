@@ -1,0 +1,7 @@
+file2.txt
+
+# ini ignore jenis file
+*.bat
+
+# ini ignore folder
+log/
